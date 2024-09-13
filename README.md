@@ -15,8 +15,9 @@ Follow these steps to clone the Fair-AutoML repository and install Fair-AutoML.
 git clone https://github.com/tess022095/Fairness-Checker.git
 ``` 
 
-2. Navigate to the cloned repository: `cd Fairness-Checker/` and install required packages:
+2. Navigate to the cloned repository: `cd Fairness-Checker/` and install the required packages:
 
 ```
 pip install -r requirements.txt
 ```
+3. Navigate to the cloned repository: `cd Fairness-Checker/data` and run files in this folder to obtain the evaluation results.
