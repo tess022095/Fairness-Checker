@@ -6,11 +6,6 @@ This repository contains the source code, benchmark models, and datasets for the
 
 To run Fair-AutoML, we need to install Python 3 environment on Linux. The current version has been tested on Python 3.10.
 
-****Environment Setup****
-
-To run Fair-AutoML, we need to install Python 3 environment on Linux. 
-The current version has been tested on Python 3.10. 
-
 ### Environment Setup
 Follow these steps to clone the Fair-AutoML repository and install Fair-AutoML.
 
