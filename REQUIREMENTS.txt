@@ -1,0 +1,8 @@
+catboost==0.21
+imblearn==0.0
+imbalanced-learn==0.6.1
+lightgbm==2.3.1
+xgboost==0.90
+tensorflow==1.15.2
+fairlearn==0.4.6
+aif360
